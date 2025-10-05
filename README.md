@@ -16,7 +16,7 @@
  - Тестирование торговых систем и автоматическая торговля в [BackTrader](https://www.backtrader.com/) через коннектор [BackTraderFinam](https://github.com/cia76/BackTraderFinam).
 
 ### Установка
-Установите библиотеку через pip в командной строке: **pip install git+https://github.com/cia76/FinamPy.git** 
+Установите библиотеку через pip в командной строке: **pip install git+https://github.com/lotar659/FinamPy.git** 
 
 ### Начало работы
 Если нет торгового токена, то получите его [здесь >>>](https://tradeapi.finam.ru/docs/tokens/)
